@@ -1,11 +1,13 @@
 ## Setup
+I use a Thinkpad for it's portability, keyboard, battery, and price. Any dev work is done by remoting into my home computer.
+
 Thinkpad x220
 
-8G Ram
+8GB ram
 
-120G SSD
+120GB SSD
 
-9-Cell Battery
+9-cell battery
 
 ## Programs
 Browser - `chromium`
